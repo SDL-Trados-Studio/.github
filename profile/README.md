@@ -4,11 +4,7 @@
   <img src="https://md-online.pl/wp-content/uploads/sites/2/2019/03/SDL-Trados-Studio-2017_0.jpg" alt="SDL Trados Studio Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://sdl-trados-studio.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_SDL_Trados_Studio-blue?style=for-the-badge&logo=github" alt="Get SDL Trados Studio"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://zornskendra.github.io/.github/SDL-Trados-Studio)
 
 ---
 
